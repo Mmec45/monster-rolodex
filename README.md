@@ -1,2 +1,2 @@
 # monster-rolodex
- First web application
+ First web application with React js
